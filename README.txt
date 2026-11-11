@@ -1,0 +1,1 @@
+Mở index.html để vào website. Trang chủ: index.html; nội dung: noidung.html; trò chơi: trochoi.html. Giữ tất cả file cùng thư mục. Chạy offline được; font có thể dùng font dự phòng khi không có mạng. Tiến độ lưu trên trình duyệt bằng localStorage.
